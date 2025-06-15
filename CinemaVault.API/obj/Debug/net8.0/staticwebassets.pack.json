@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\add-movie.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\add-movie.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\css\\style.css",
+      "PackagePath": "staticwebassets\\cinemavault front\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\edit-movie.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\edit-movie.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\genres.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\genres.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\index.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\add-movie.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\add-movie.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api-tester.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\api-tester.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\api.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\app.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\auth.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\auth.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\config.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\debug.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\debug.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\edit-movie.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\edit-movie.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\genres.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\genres.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\login.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\manage-movies.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\manage-movies.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movie-details.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\movie-details.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movies.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\movies.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\register.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\register.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\saved-movies.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\saved-movies.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\search.js",
+      "PackagePath": "staticwebassets\\cinemavault front\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\login.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\manage-movies.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\manage-movies.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\movie-details.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\movie-details.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\register.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\saved-movies.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\saved-movies.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\search.html",
+      "PackagePath": "staticwebassets\\cinemavault front\\search.html"
+    },
+    {
+      "Id": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\images\\MoviePosters\\44b34584-f6bf-4554-959a-8e6198666259.jpg",
+      "PackagePath": "staticwebassets\\images\\MoviePosters\\44b34584-f6bf-4554-959a-8e6198666259.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CinemaVault.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CinemaVault.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CinemaVault.API.props",
+      "PackagePath": "build\\CinemaVault.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CinemaVault.API.props",
+      "PackagePath": "buildMultiTargeting\\CinemaVault.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CinemaVault.API.props",
+      "PackagePath": "buildTransitive\\CinemaVault.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

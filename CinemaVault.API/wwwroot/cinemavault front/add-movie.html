@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add New Movie - Cinema Vault</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <i class="fas fa-film me-2"></i>Cinema Vault
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="genres.html">Genres</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="search.html">Search</a>
+                    </li>
+                </ul>
+                <!-- Search Form -->
+                <form class="d-flex me-2" id="searchForm">
+                    <input class="form-control me-2" type="search" placeholder="Search movies..." id="searchInput">
+                    <button class="btn btn-outline-light" type="submit">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </form>
+                <!-- Admin Menu (will be shown only for admins) -->
+                <div id="adminMenu" class="d-none me-2">
+                    <a href="add-movie.html" class="btn btn-success admin-control active">
+                        <i class="fas fa-plus me-1"></i>Add Movie
+                    </a>
+                </div>
+                <!-- User Menu (will be hidden/shown based on auth status) -->
+                <div id="userMenu" class="d-none">
+                    <div class="dropdown">
+                        <button class="btn btn-outline-light dropdown-toggle" type="button" id="userDropdown" data-bs-toggle="dropdown">
+                            <i class="fas fa-user me-1"></i><span id="username">User</span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item user-control" href="saved-movies.html">My Saved Movies</a></li>
+                            <li class="admin-control"><a class="dropdown-item" href="manage-movies.html">Manage Movies</a></li>
+                            <li class="admin-control"><a class="dropdown-item" href="manage-genres.html">Manage Genres</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#" id="logoutBtn">Logout</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Add Movie Form Section -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="card shadow">
+                        <div class="card-body p-4">
+                            <h2 class="text-center mb-4">Add New Movie</h2>
+
+                            <!-- Alert for errors -->
+                            <div class="alert alert-danger d-none" id="addMovieError" role="alert"></div>
+
+                            <!-- Success message -->
+                            <div class="alert alert-success d-none" id="addMovieSuccess" role="alert"></div>
+
+                            <form id="addMovieForm" enctype="multipart/form-data">
+                                <div class="mb-3">
+                                    <label for="title" class="form-label">Movie Title</label>
+                                    <input type="text" class="form-control" id="title" name="title" required>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="description" class="form-label">Description</label>
+                                    <textarea class="form-control" id="description" name="description" rows="4" required></textarea>
+                                </div>
+
+                                <div class="row mb-3">
+                                    <div class="col-md-6">
+                                        <label for="releaseDate" class="form-label">Release Date</label>
+                                        <input type="date" class="form-control" id="releaseDate" name="releaseDate" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="directorName" class="form-label">Director</label>
+                                        <input type="text" class="form-control" id="directorName" name="directorName" required>
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="posterFile" class="form-label">Movie Poster</label>
+                                    <input type="file" class="form-control" id="posterFile" name="posterFile" accept="image/*" required>
+                                    <div class="form-text">Upload an image file for the movie poster (JPG, PNG).</div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="trailerUrl" class="form-label">Trailer URL (YouTube)</label>
+                                    <input type="url" class="form-control" id="trailerUrl" name="trailerUrl" placeholder="https://www.youtube.com/watch?v=...">
+                                    <div class="form-text">Enter a YouTube URL for the movie trailer (optional).</div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Genres</label>
+                                    <div id="genreCheckboxes" class="row">
+                                        <!-- Genre checkboxes will be loaded here via JavaScript -->
+                                        <div class="col-12 text-center">
+                                            <div class="spinner-border spinner-border-sm" role="status">
+                                                <span class="visually-hidden">Loading genres...</span>
+                                            </div>
+                                            <span class="ms-2">Loading genres...</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="d-grid gap-2">
+                                    <button type="submit" class="btn btn-primary">Add Movie</button>
+                                    <a href="index.html" class="btn btn-outline-secondary">Cancel</a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5><i class="fas fa-film me-2"></i>Cinema Vault</h5>
+                    <p>Your personal movie collection and rating platform.</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p>&copy; 2023 Cinema Vault. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay d-none" id="loadingOverlay">
+        <div class="spinner-border text-light" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="js/config.js"></script>
+    <script src="js/debug.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/movies.js"></script>
+    <script src="js/api-tester.js"></script>
+    <script src="js/add-movie.js"></script>
+</body>
+</html>

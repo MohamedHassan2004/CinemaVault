@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Genres - Cinema Vault</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <i class="fas fa-film me-2"></i>Cinema Vault
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="genres.html">Genres</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="search.html">Search</a>
+                    </li>
+                </ul>
+                <!-- Search Form -->
+                <form class="d-flex me-2" id="searchForm">
+                    <input class="form-control me-2" type="search" placeholder="Search movies..." id="searchInput">
+                    <button class="btn btn-outline-light" type="submit">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </form>
+                <!-- Auth Buttons (will be hidden/shown based on auth status) -->
+                <div id="authButtons">
+                    <a href="login.html" class="btn btn-outline-light me-2">Login</a>
+                    <a href="register.html" class="btn btn-primary">Register</a>
+                </div>
+                <!-- User Menu (will be hidden/shown based on auth status) -->
+                <div id="userMenu" class="d-none">
+                    <div class="dropdown">
+                        <button class="btn btn-outline-light dropdown-toggle" type="button" id="userDropdown" data-bs-toggle="dropdown">
+                            <i class="fas fa-user me-1"></i><span id="username">User</span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="saved-movies.html">My Saved Movies</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#" id="logoutBtn">Logout</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Genres Section -->
+    <section class="py-5">
+        <div class="container">
+            <h2 class="mb-4">Browse by Genre</h2>
+
+            <!-- Genres List -->
+            <div class="row mb-5" id="genresList">
+                <!-- Genres will be loaded here via JavaScript -->
+                <div class="col-12 text-center">
+                    <div class="spinner-border" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Selected Genre Movies -->
+            <div id="selectedGenreSection" class="d-none">
+                <h3 id="selectedGenreName" class="mb-4"></h3>
+                <div class="row" id="genreMovies">
+                    <!-- Movies will be loaded here via JavaScript -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5><i class="fas fa-film me-2"></i>Cinema Vault</h5>
+                    <p>Your personal movie collection and rating platform.</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p>&copy; 2023 Cinema Vault. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Genre Card Template (hidden, used by JavaScript) -->
+    <template id="genreCardTemplate">
+        <div class="col-md-4 col-lg-3 mb-4">
+            <div class="card h-100 genre-card">
+                <div class="card-body text-center">
+                    <h5 class="card-title genre-name"></h5>
+                </div>
+                <div class="card-footer">
+                    <button class="btn btn-primary btn-sm w-100 view-genre-btn">View Movies</button>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <!-- Movie Card Template (hidden, used by JavaScript) -->
+    <template id="movieCardTemplate">
+        <div class="col-md-4 col-lg-3 mb-4">
+            <div class="card movie-card h-100">
+                <img src="" class="card-img-top movie-poster" alt="Movie Poster">
+                <div class="card-body">
+                    <h5 class="card-title movie-title"></h5>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="rating">
+                            <i class="fas fa-star text-warning"></i>
+                            <span class="movie-rating"></span>
+                        </div>
+                        <button class="btn btn-sm save-movie-btn">
+                            <i class="far fa-bookmark"></i>
+                        </button>
+                    </div>
+                    <div class="movie-genres mt-2">
+                        <!-- Genre badges will be added here -->
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="#" class="btn btn-primary btn-sm w-100 view-details-btn">View Details</a>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay d-none" id="loadingOverlay">
+        <div class="spinner-border text-light" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="js/config.js"></script>
+    <script src="js/debug.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/movies.js"></script>
+    <script src="js/genres.js"></script>
+</body>
+</html>

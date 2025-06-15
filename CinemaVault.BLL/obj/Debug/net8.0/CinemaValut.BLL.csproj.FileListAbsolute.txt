@@ -1,0 +1,51 @@
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.csproj.AssemblyReference.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.AssemblyInfoInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.AssemblyInfo.cs
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.csproj.CoreCompileInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.deps.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.runtimeconfig.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVa.F3CF1D25.Up2Date
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\refint\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.genruntimeconfig.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\ref\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.deps.json
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.runtimeconfig.json
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.csproj.AssemblyReference.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.AssemblyInfoInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.AssemblyInfo.cs
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.csproj.CoreCompileInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVa.F3CF1D25.Up2Date
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\refint\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.genruntimeconfig.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\ref\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.deps.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.runtimeconfig.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.BLL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\bin\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.csproj.AssemblyReference.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.AssemblyInfoInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.AssemblyInfo.cs
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.csproj.CoreCompileInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVa.F3CF1D25.Up2Date
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\refint\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.genruntimeconfig.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\ref\CinemaVault.BLL.dll

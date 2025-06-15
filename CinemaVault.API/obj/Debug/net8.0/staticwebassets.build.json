@@ -1,0 +1,2906 @@
+{
+  "Version": 1,
+  "Hash": "wFRSyxo8HR9/0v0j8dTpAvZ86J7DgQlM8kq7hlEOR9I=",
+  "Source": "CinemaVault.API",
+  "BasePath": "_content/CinemaVault.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CinemaVault.API\\wwwroot",
+      "Source": "CinemaVault.API",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\add-movie.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/add-movie#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1cg34z7p4t",
+      "Integrity": "cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\add-movie.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\css\\style.css",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b62yovzq36",
+      "Integrity": "g+PFniT09PE/lUlBXxZGCla3AIF+wsX+FRZ69ZNhQrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\edit-movie.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/edit-movie#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kqgheg3vpp",
+      "Integrity": "BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\edit-movie.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\genres.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/genres#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f2g5swz7zo",
+      "Integrity": "l+y7T9npkLxBR19+Vk8W0wnqI3Pbo0D7COIvr8qXeP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\genres.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\index.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vh2emshl05",
+      "Integrity": "3eU4SspW/migqa3JFfG+qeeK5ywG+D6EmgvPKq5r+uc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\add-movie.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/add-movie#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x4792g69jy",
+      "Integrity": "n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\add-movie.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/api#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2q1mw7oytb",
+      "Integrity": "xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\api.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api-tester.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/api-tester#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v3u05eh0mz",
+      "Integrity": "lTpoE+edATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\api-tester.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\app.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "heybq5vodt",
+      "Integrity": "F/+NtYKafiX+QnV0WgQERxzWkYi0n0n0gov/6uQUKFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\auth.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/auth#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "awmmur4e0z",
+      "Integrity": "ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\auth.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\config.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/config#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxkmtzq87m",
+      "Integrity": "iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\config.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\debug.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/debug#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "31a4qyyaqy",
+      "Integrity": "x82XZdRYYLorjc1isKM9prEGJ2DqC+HJ8reDOsR67Ng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\debug.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\edit-movie.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/edit-movie#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nwcjefs1bn",
+      "Integrity": "6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli+ti0o3j1k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\edit-movie.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\genres.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/genres#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8wbwtwbdtd",
+      "Integrity": "yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\genres.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\login.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iu7k08xegf",
+      "Integrity": "uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn+/MvHQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\manage-movies.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/manage-movies#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "36agafyq61",
+      "Integrity": "ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\manage-movies.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movie-details.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/movie-details#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8gxo4t3mb",
+      "Integrity": "cAjrZ04idbh7A+Izd0tpCgJ8glUvdezKGHglKzRHrJg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\movie-details.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movies.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/movies#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m6ojfjzq30",
+      "Integrity": "Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\movies.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\register.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/register#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oh3gkqhen9",
+      "Integrity": "VL48YvURTF2hupS+AfBoYadez71pWG1AexyNa7E82WE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\register.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\saved-movies.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/saved-movies#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mhmtk5921",
+      "Integrity": "rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\saved-movies.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\search.js",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/js/search#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "52wl0nyomc",
+      "Integrity": "c46Pviun4qvpx+bL/taoxNjaWz8KUYRyz5AzAyPsZGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\js\\search.js"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\login.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cagskk5vmg",
+      "Integrity": "jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\manage-movies.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/manage-movies#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2gra40i5in",
+      "Integrity": "jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT+kyQKhfYQkIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\manage-movies.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\movie-details.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/movie-details#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bdbrua7b6q",
+      "Integrity": "sRf9u7G77h+mZUrea2R+Cprn1UWs9CBtvbC1tDTBWzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\movie-details.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\register.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p5hvwn0dkj",
+      "Integrity": "Y3uXw8+qVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\register.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\saved-movies.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/saved-movies#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "darl6louej",
+      "Integrity": "m0joYHLDQGGRezpICPaE4ned+zRB/aPlG81KPNJoTzo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\saved-movies.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\search.html",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "cinemavault front/search#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s4xwr0tkw4",
+      "Integrity": "vDq9OmBHewgpksS9D+yWc5CcOTCTpZpTwF86H+/j+Nw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cinemavault front\\search.html"
+    },
+    {
+      "Identity": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\images\\MoviePosters\\44b34584-f6bf-4554-959a-8e6198666259.jpg",
+      "SourceId": "CinemaVault.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\",
+      "BasePath": "_content/CinemaVault.API",
+      "RelativePath": "images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57vsmtrdy8",
+      "Integrity": "DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\MoviePosters\\44b34584-f6bf-4554-959a-8e6198666259.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "cinemavault front/add-movie.1cg34z7p4t.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\add-movie.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cg34z7p4t"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/add-movie.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/add-movie.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\add-movie.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/css/style.b62yovzq36.css",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+PFniT09PE/lUlBXxZGCla3AIF+wsX+FRZ69ZNhQrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:52:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b62yovzq36"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g+PFniT09PE/lUlBXxZGCla3AIF+wsX+FRZ69ZNhQrQ="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/css/style.css",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+PFniT09PE/lUlBXxZGCla3AIF+wsX+FRZ69ZNhQrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:52:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g+PFniT09PE/lUlBXxZGCla3AIF+wsX+FRZ69ZNhQrQ="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/edit-movie.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\edit-movie.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:01:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/edit-movie.kqgheg3vpp.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\edit-movie.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:01:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqgheg3vpp"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/edit-movie.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/genres.f2g5swz7zo.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\genres.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l+y7T9npkLxBR19+Vk8W0wnqI3Pbo0D7COIvr8qXeP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:20:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2g5swz7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/genres.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l+y7T9npkLxBR19+Vk8W0wnqI3Pbo0D7COIvr8qXeP4="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/genres.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\genres.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l+y7T9npkLxBR19+Vk8W0wnqI3Pbo0D7COIvr8qXeP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:20:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l+y7T9npkLxBR19+Vk8W0wnqI3Pbo0D7COIvr8qXeP4="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/index.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3eU4SspW/migqa3JFfG+qeeK5ywG+D6EmgvPKq5r+uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3eU4SspW/migqa3JFfG+qeeK5ywG+D6EmgvPKq5r+uc="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/index.vh2emshl05.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3eU4SspW/migqa3JFfG+qeeK5ywG+D6EmgvPKq5r+uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh2emshl05"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3eU4SspW/migqa3JFfG+qeeK5ywG+D6EmgvPKq5r+uc="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/add-movie.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\add-movie.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/add-movie.x4792g69jy.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\add-movie.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x4792g69jy"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/add-movie.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/api.2q1mw7oytb.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 20:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2q1mw7oytb"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/api.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/api.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 20:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/api-tester.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api-tester.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTpoE+edATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTpoE+edATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/api-tester.v3u05eh0mz.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\api-tester.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTpoE+edATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v3u05eh0mz"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/api-tester.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTpoE+edATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/app.heybq5vodt.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F/+NtYKafiX+QnV0WgQERxzWkYi0n0n0gov/6uQUKFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:13:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "heybq5vodt"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/+NtYKafiX+QnV0WgQERxzWkYi0n0n0gov/6uQUKFI="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/app.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F/+NtYKafiX+QnV0WgQERxzWkYi0n0n0gov/6uQUKFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:13:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/+NtYKafiX+QnV0WgQERxzWkYi0n0n0gov/6uQUKFI="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/auth.awmmur4e0z.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\auth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 15:22:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awmmur4e0z"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/auth.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/auth.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\auth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 15:22:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/config.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:11:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/config.jxkmtzq87m.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:11:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxkmtzq87m"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/config.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/debug.31a4qyyaqy.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\debug.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x82XZdRYYLorjc1isKM9prEGJ2DqC+HJ8reDOsR67Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:59:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31a4qyyaqy"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/debug.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x82XZdRYYLorjc1isKM9prEGJ2DqC+HJ8reDOsR67Ng="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/debug.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\debug.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x82XZdRYYLorjc1isKM9prEGJ2DqC+HJ8reDOsR67Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:59:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x82XZdRYYLorjc1isKM9prEGJ2DqC+HJ8reDOsR67Ng="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/edit-movie.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\edit-movie.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli+ti0o3j1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli+ti0o3j1k="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/edit-movie.nwcjefs1bn.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\edit-movie.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli+ti0o3j1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwcjefs1bn"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/edit-movie.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli+ti0o3j1k="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/genres.8wbwtwbdtd.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\genres.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 20:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8wbwtwbdtd"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/genres.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/genres.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\genres.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 20:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/login.iu7k08xegf.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn+/MvHQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:11:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iu7k08xegf"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn+/MvHQ0="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/login.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn+/MvHQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:11:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn+/MvHQ0="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/manage-movies.36agafyq61.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\manage-movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:58:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "36agafyq61"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/manage-movies.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/manage-movies.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\manage-movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:58:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/movie-details.g8gxo4t3mb.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movie-details.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cAjrZ04idbh7A+Izd0tpCgJ8glUvdezKGHglKzRHrJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8gxo4t3mb"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/movie-details.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cAjrZ04idbh7A+Izd0tpCgJ8glUvdezKGHglKzRHrJg="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/movie-details.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movie-details.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cAjrZ04idbh7A+Izd0tpCgJ8glUvdezKGHglKzRHrJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cAjrZ04idbh7A+Izd0tpCgJ8glUvdezKGHglKzRHrJg="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/movies.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/movies.m6ojfjzq30.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6ojfjzq30"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/movies.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/register.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VL48YvURTF2hupS+AfBoYadez71pWG1AexyNa7E82WE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VL48YvURTF2hupS+AfBoYadez71pWG1AexyNa7E82WE="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/register.oh3gkqhen9.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VL48YvURTF2hupS+AfBoYadez71pWG1AexyNa7E82WE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oh3gkqhen9"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/register.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VL48YvURTF2hupS+AfBoYadez71pWG1AexyNa7E82WE="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/saved-movies.5mhmtk5921.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\saved-movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mhmtk5921"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/saved-movies.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/saved-movies.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\saved-movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 12:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/search.52wl0nyomc.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\search.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c46Pviun4qvpx+bL/taoxNjaWz8KUYRyz5AzAyPsZGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52wl0nyomc"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/js/search.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c46Pviun4qvpx+bL/taoxNjaWz8KUYRyz5AzAyPsZGE="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/js/search.js",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\js\\search.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c46Pviun4qvpx+bL/taoxNjaWz8KUYRyz5AzAyPsZGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 23:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c46Pviun4qvpx+bL/taoxNjaWz8KUYRyz5AzAyPsZGE="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/login.cagskk5vmg.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:22:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cagskk5vmg"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/login.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:22:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/manage-movies.2gra40i5in.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\manage-movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT+kyQKhfYQkIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:58:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2gra40i5in"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/manage-movies.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT+kyQKhfYQkIQ="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/manage-movies.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\manage-movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT+kyQKhfYQkIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 21:58:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT+kyQKhfYQkIQ="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/movie-details.bdbrua7b6q.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\movie-details.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sRf9u7G77h+mZUrea2R+Cprn1UWs9CBtvbC1tDTBWzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:22:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bdbrua7b6q"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/movie-details.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sRf9u7G77h+mZUrea2R+Cprn1UWs9CBtvbC1tDTBWzA="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/movie-details.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\movie-details.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sRf9u7G77h+mZUrea2R+Cprn1UWs9CBtvbC1tDTBWzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:22:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sRf9u7G77h+mZUrea2R+Cprn1UWs9CBtvbC1tDTBWzA="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/register.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3uXw8+qVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 20:15:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3uXw8+qVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/register.p5hvwn0dkj.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3uXw8+qVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 20:15:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p5hvwn0dkj"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3uXw8+qVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/saved-movies.darl6louej.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\saved-movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0joYHLDQGGRezpICPaE4ned+zRB/aPlG81KPNJoTzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:20:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "darl6louej"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/saved-movies.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0joYHLDQGGRezpICPaE4ned+zRB/aPlG81KPNJoTzo="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/saved-movies.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\saved-movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0joYHLDQGGRezpICPaE4ned+zRB/aPlG81KPNJoTzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:20:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0joYHLDQGGRezpICPaE4ned+zRB/aPlG81KPNJoTzo="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/search.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\search.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDq9OmBHewgpksS9D+yWc5CcOTCTpZpTwF86H+/j+Nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDq9OmBHewgpksS9D+yWc5CcOTCTpZpTwF86H+/j+Nw="
+        }
+      ]
+    },
+    {
+      "Route": "cinemavault front/search.s4xwr0tkw4.html",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\cinemavault front\\search.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDq9OmBHewgpksS9D+yWc5CcOTCTpZpTwF86H+/j+Nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 19:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s4xwr0tkw4"
+        },
+        {
+          "Name": "label",
+          "Value": "cinemavault front/search.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDq9OmBHewgpksS9D+yWc5CcOTCTpZpTwF86H+/j+Nw="
+        }
+      ]
+    },
+    {
+      "Route": "images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259.57vsmtrdy8.jpg",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\images\\MoviePosters\\44b34584-f6bf-4554-959a-8e6198666259.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 16:38:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57vsmtrdy8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI="
+        }
+      ]
+    },
+    {
+      "Route": "images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259.jpg",
+      "AssetFile": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\wwwroot\\images\\MoviePosters\\44b34584-f6bf-4554-959a-8e6198666259.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 16:38:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.csproj.AssemblyReference.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.AssemblyInfoInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.AssemblyInfo.cs
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.csproj.CoreCompileInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.deps.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.runtimeconfig.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\refint\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.genruntimeconfig.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\Cinema Valut\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\ref\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.deps.json
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.runtimeconfig.json
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.csproj.AssemblyReference.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.AssemblyInfoInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.AssemblyInfo.cs
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.csproj.CoreCompileInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\refint\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.genruntimeconfig.cache
+C:\Users\wtwat2004\OneDrive\Desktop\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\ref\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.deps.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.runtimeconfig.json
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\bin\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.csproj.AssemblyReference.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.AssemblyInfoInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.AssemblyInfo.cs
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.csproj.CoreCompileInputs.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\refint\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.pdb
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.genruntimeconfig.cache
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\ref\CinemaVault.DAL.dll

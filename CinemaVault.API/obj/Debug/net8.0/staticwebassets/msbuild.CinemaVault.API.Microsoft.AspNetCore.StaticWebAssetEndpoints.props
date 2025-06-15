@@ -1,0 +1,340 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/add-movie.1cg34z7p4t.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\add-movie.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1cg34z7p4t"},{"Name":"integrity","Value":"sha256-cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/add-movie.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9402"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:04:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/add-movie.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\add-movie.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9402"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022cRXT5ZfzhiV0JJykDkc4jOAuGqSy1bMcZfr1ndBVzHs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:04:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/css/style.b62yovzq36.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b62yovzq36"},{"Name":"integrity","Value":"sha256-g\u002BPFniT09PE/lUlBXxZGCla3AIF\u002BwsX\u002BFRZ69ZNhQrQ="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9941"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022g\u002BPFniT09PE/lUlBXxZGCla3AIF\u002BwsX\u002BFRZ69ZNhQrQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:52:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-g\u002BPFniT09PE/lUlBXxZGCla3AIF\u002BwsX\u002BFRZ69ZNhQrQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9941"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022g\u002BPFniT09PE/lUlBXxZGCla3AIF\u002BwsX\u002BFRZ69ZNhQrQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:52:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/edit-movie.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\edit-movie.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10278"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:01:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/edit-movie.kqgheg3vpp.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\edit-movie.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kqgheg3vpp"},{"Name":"integrity","Value":"sha256-BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/edit-movie.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10278"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BJNuVIEHXkDjw1Lok0YIAR6EcfmN/xzLXg4kAe37uPI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:01:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/genres.f2g5swz7zo.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\genres.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f2g5swz7zo"},{"Name":"integrity","Value":"sha256-l\u002By7T9npkLxBR19\u002BVk8W0wnqI3Pbo0D7COIvr8qXeP4="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/genres.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7081"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022l\u002By7T9npkLxBR19\u002BVk8W0wnqI3Pbo0D7COIvr8qXeP4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:20:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/genres.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\genres.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l\u002By7T9npkLxBR19\u002BVk8W0wnqI3Pbo0D7COIvr8qXeP4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7081"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022l\u002By7T9npkLxBR19\u002BVk8W0wnqI3Pbo0D7COIvr8qXeP4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:20:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3eU4SspW/migqa3JFfG\u002BqeeK5ywG\u002BD6EmgvPKq5r\u002Buc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8546"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00223eU4SspW/migqa3JFfG\u002BqeeK5ywG\u002BD6EmgvPKq5r\u002Buc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 22:03:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/index.vh2emshl05.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vh2emshl05"},{"Name":"integrity","Value":"sha256-3eU4SspW/migqa3JFfG\u002BqeeK5ywG\u002BD6EmgvPKq5r\u002Buc="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8546"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00223eU4SspW/migqa3JFfG\u002BqeeK5ywG\u002BD6EmgvPKq5r\u002Buc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 22:03:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/add-movie.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\add-movie.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11346"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:29:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/add-movie.x4792g69jy.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\add-movie.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x4792g69jy"},{"Name":"integrity","Value":"sha256-n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/add-movie.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11346"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022n1GWnfwI0gORIoT8ioIlJeLXFiZaot75DXGRSinvd40=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:29:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/api-tester.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\api-tester.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lTpoE\u002BedATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7856"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022lTpoE\u002BedATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:11:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/api-tester.v3u05eh0mz.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\api-tester.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v3u05eh0mz"},{"Name":"integrity","Value":"sha256-lTpoE\u002BedATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/api-tester.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7856"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022lTpoE\u002BedATKGH7WHDujUIg579GpCjzt4kNvRNQhXAnc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:11:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/api.2q1mw7oytb.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\api.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2q1mw7oytb"},{"Name":"integrity","Value":"sha256-xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/api.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12543"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 20:12:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/api.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\api.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12543"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xrHa6E4sunuNAvIFsQ5/D/K/9iNJrcxwS1E8KMmbqFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 20:12:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/app.heybq5vodt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"heybq5vodt"},{"Name":"integrity","Value":"sha256-F/\u002BNtYKafiX\u002BQnV0WgQERxzWkYi0n0n0gov/6uQUKFI="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6741"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022F/\u002BNtYKafiX\u002BQnV0WgQERxzWkYi0n0n0gov/6uQUKFI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:13:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-F/\u002BNtYKafiX\u002BQnV0WgQERxzWkYi0n0n0gov/6uQUKFI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6741"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022F/\u002BNtYKafiX\u002BQnV0WgQERxzWkYi0n0n0gov/6uQUKFI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:13:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/auth.awmmur4e0z.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\auth.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"awmmur4e0z"},{"Name":"integrity","Value":"sha256-ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/auth.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15106"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 15:22:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/auth.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\auth.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15106"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ageAirBHXwUxtnTl4Z0Cbbn9mmWiqd/jpZiNbp7Boj0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 15:22:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/config.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\config.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1687"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:11:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/config.jxkmtzq87m.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\config.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jxkmtzq87m"},{"Name":"integrity","Value":"sha256-iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/config.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1687"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iaPrWY7NC4vueViuSS4IUWpIUz00MvHBsAmb9xNUPd8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:11:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/debug.31a4qyyaqy.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\debug.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"31a4qyyaqy"},{"Name":"integrity","Value":"sha256-x82XZdRYYLorjc1isKM9prEGJ2DqC\u002BHJ8reDOsR67Ng="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/debug.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7719"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022x82XZdRYYLorjc1isKM9prEGJ2DqC\u002BHJ8reDOsR67Ng=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 22:59:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/debug.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\debug.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x82XZdRYYLorjc1isKM9prEGJ2DqC\u002BHJ8reDOsR67Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7719"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022x82XZdRYYLorjc1isKM9prEGJ2DqC\u002BHJ8reDOsR67Ng=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 22:59:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/edit-movie.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\edit-movie.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli\u002Bti0o3j1k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13326"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli\u002Bti0o3j1k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:45:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/edit-movie.nwcjefs1bn.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\edit-movie.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nwcjefs1bn"},{"Name":"integrity","Value":"sha256-6c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli\u002Bti0o3j1k="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/edit-movie.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13326"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226c0QkzfGpBj6xzhn1AClhEcyvr44Yk7Tli\u002Bti0o3j1k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:45:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/genres.8wbwtwbdtd.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\genres.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8wbwtwbdtd"},{"Name":"integrity","Value":"sha256-yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/genres.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9565"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 20:05:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/genres.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\genres.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9565"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yE6tXRGMy56z2NLQbGU5J/ZnP8OOlGo2wZOCNydmIv4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 20:05:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/login.iu7k08xegf.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\login.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iu7k08xegf"},{"Name":"integrity","Value":"sha256-uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn\u002B/MvHQ0="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/login.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2211"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn\u002B/MvHQ0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:11:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/login.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\login.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn\u002B/MvHQ0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2211"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uhT4ABr8m2wKiZh7ncdLAS01OUCVq899uNkn\u002B/MvHQ0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:11:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/manage-movies.36agafyq61.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\manage-movies.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"36agafyq61"},{"Name":"integrity","Value":"sha256-ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/manage-movies.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10476"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/manage-movies.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\manage-movies.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10476"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ex0YvW0rbZFFpzzC99c46y8IGZwKzGS6HHjJjHF8cig=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/movie-details.g8gxo4t3mb.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\movie-details.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g8gxo4t3mb"},{"Name":"integrity","Value":"sha256-cAjrZ04idbh7A\u002BIzd0tpCgJ8glUvdezKGHglKzRHrJg="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/movie-details.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13836"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cAjrZ04idbh7A\u002BIzd0tpCgJ8glUvdezKGHglKzRHrJg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:22:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/movie-details.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\movie-details.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cAjrZ04idbh7A\u002BIzd0tpCgJ8glUvdezKGHglKzRHrJg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13836"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cAjrZ04idbh7A\u002BIzd0tpCgJ8glUvdezKGHglKzRHrJg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:22:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/movies.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\movies.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"39176"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:19:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/movies.m6ojfjzq30.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\movies.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m6ojfjzq30"},{"Name":"integrity","Value":"sha256-Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/movies.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39176"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Lkztj3tuV7YvvCsWy/XqZHT44zyT0Vpdhe1zAd5XAxg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:19:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/register.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\register.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VL48YvURTF2hupS\u002BAfBoYadez71pWG1AexyNa7E82WE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3019"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VL48YvURTF2hupS\u002BAfBoYadez71pWG1AexyNa7E82WE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:11:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/register.oh3gkqhen9.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\register.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oh3gkqhen9"},{"Name":"integrity","Value":"sha256-VL48YvURTF2hupS\u002BAfBoYadez71pWG1AexyNa7E82WE="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/register.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3019"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VL48YvURTF2hupS\u002BAfBoYadez71pWG1AexyNa7E82WE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:11:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/saved-movies.5mhmtk5921.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\saved-movies.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mhmtk5921"},{"Name":"integrity","Value":"sha256-rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/saved-movies.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5497"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 12:53:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/saved-movies.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\saved-movies.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5497"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rZ/NWmdkRYx/eeS3WWOSKQyAvugPzxOmyDDyjrJJOB4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 12:53:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/search.52wl0nyomc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\search.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"52wl0nyomc"},{"Name":"integrity","Value":"sha256-c46Pviun4qvpx\u002BbL/taoxNjaWz8KUYRyz5AzAyPsZGE="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/js/search.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5581"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022c46Pviun4qvpx\u002BbL/taoxNjaWz8KUYRyz5AzAyPsZGE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:18:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/js/search.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\js\search.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c46Pviun4qvpx\u002BbL/taoxNjaWz8KUYRyz5AzAyPsZGE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5581"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022c46Pviun4qvpx\u002BbL/taoxNjaWz8KUYRyz5AzAyPsZGE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 23:18:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/login.cagskk5vmg.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cagskk5vmg"},{"Name":"integrity","Value":"sha256-jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4789"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:22:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4789"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022jEoLzE6Yo/2EK/jflzHsCsxj2zmdQj6C86TwgpB/uLY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:22:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/manage-movies.2gra40i5in.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\manage-movies.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2gra40i5in"},{"Name":"integrity","Value":"sha256-jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT\u002BkyQKhfYQkIQ="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/manage-movies.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10104"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT\u002BkyQKhfYQkIQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:58:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/manage-movies.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\manage-movies.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT\u002BkyQKhfYQkIQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10104"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022jnKtwHoGRWTIyqQyOeAveZr/f8lKAIT\u002BkyQKhfYQkIQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 21:58:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/movie-details.bdbrua7b6q.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\movie-details.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bdbrua7b6q"},{"Name":"integrity","Value":"sha256-sRf9u7G77h\u002BmZUrea2R\u002BCprn1UWs9CBtvbC1tDTBWzA="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/movie-details.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8010"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022sRf9u7G77h\u002BmZUrea2R\u002BCprn1UWs9CBtvbC1tDTBWzA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:22:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/movie-details.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\movie-details.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sRf9u7G77h\u002BmZUrea2R\u002BCprn1UWs9CBtvbC1tDTBWzA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8010"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022sRf9u7G77h\u002BmZUrea2R\u002BCprn1UWs9CBtvbC1tDTBWzA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:22:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/register.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Y3uXw8\u002BqVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5807"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Y3uXw8\u002BqVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 20:15:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/register.p5hvwn0dkj.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p5hvwn0dkj"},{"Name":"integrity","Value":"sha256-Y3uXw8\u002BqVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/register.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5807"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Y3uXw8\u002BqVNvwhhZhB1KbBENReqhyQ/FBACBt7sXUWUE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 20:15:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/saved-movies.darl6louej.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\saved-movies.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"darl6louej"},{"Name":"integrity","Value":"sha256-m0joYHLDQGGRezpICPaE4ned\u002BzRB/aPlG81KPNJoTzo="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/saved-movies.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6840"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022m0joYHLDQGGRezpICPaE4ned\u002BzRB/aPlG81KPNJoTzo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:20:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/saved-movies.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\saved-movies.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m0joYHLDQGGRezpICPaE4ned\u002BzRB/aPlG81KPNJoTzo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6840"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022m0joYHLDQGGRezpICPaE4ned\u002BzRB/aPlG81KPNJoTzo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:20:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/search.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\search.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vDq9OmBHewgpksS9D\u002ByWc5CcOTCTpZpTwF86H\u002B/j\u002BNw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6666"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022vDq9OmBHewgpksS9D\u002ByWc5CcOTCTpZpTwF86H\u002B/j\u002BNw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:21:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/cinemavault front/search.s4xwr0tkw4.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cinemavault front\search.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s4xwr0tkw4"},{"Name":"integrity","Value":"sha256-vDq9OmBHewgpksS9D\u002ByWc5CcOTCTpZpTwF86H\u002B/j\u002BNw="},{"Name":"label","Value":"_content/CinemaVault.API/cinemavault front/search.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6666"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022vDq9OmBHewgpksS9D\u002ByWc5CcOTCTpZpTwF86H\u002B/j\u002BNw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 19:21:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259.57vsmtrdy8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\MoviePosters\44b34584-f6bf-4554-959a-8e6198666259.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"57vsmtrdy8"},{"Name":"integrity","Value":"sha256-DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI="},{"Name":"label","Value":"_content/CinemaVault.API/images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"121206"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 16:38:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaVault.API/images/MoviePosters/44b34584-f6bf-4554-959a-8e6198666259.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\MoviePosters\44b34584-f6bf-4554-959a-8e6198666259.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"121206"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DxlRR6U8fhr/8MaxV5RwCtGUbFF3Cj99a7CFswK4RdI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 16:38:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

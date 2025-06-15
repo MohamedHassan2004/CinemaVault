@@ -1,0 +1,509 @@
+/* Main Styles for Cinema Vault - Dark Theme */
+
+:root {
+    /* Main Colors */
+    --primary-color: #e50914;       /* Netflix Red */
+    --primary-hover: #f40612;
+    --secondary-color: #564d4d;
+    --accent-color: #e6b91e;        /* Gold */
+
+    /* Background Colors */
+    --bg-dark: #121212;             /* Main Background */
+    --bg-darker: #0a0a0a;           /* Darker Elements */
+    --bg-card: #1f1f1f;             /* Card Background */
+    --bg-card-hover: #2a2a2a;
+
+    /* Text Colors */
+    --text-light: #ffffff;
+    --text-muted: #b3b3b3;
+    --text-dark: #212529;
+
+    /* Border Colors */
+    --border-color: #333333;
+
+    /* Shadow */
+    --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    --box-shadow-hover: 0 8px 25px rgba(0, 0, 0, 0.7);
+}
+
+/* Global Styles */
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-light);
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-dark {
+    background-color: var(--bg-darker) !important;
+}
+
+.bg-light {
+    background-color: var(--bg-card) !important;
+    color: var(--text-light);
+}
+
+.card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--box-shadow);
+}
+
+.card-body {
+    color: var(--text-light);
+}
+
+.card-footer {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-top: 1px solid var(--border-color);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: var(--primary-hover);
+    border-color: var(--primary-hover);
+}
+
+.btn-outline-light {
+    color: var(--text-light);
+    border-color: var(--text-light);
+}
+
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--text-light);
+}
+
+.text-muted {
+    color: var(--text-muted) !important;
+}
+
+.form-control {
+    background-color: #333;
+    border: 1px solid var(--border-color);
+    color: var(--text-light);
+}
+
+.form-control:focus {
+    background-color: #444;
+    color: var(--text-light);
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.25rem rgba(229, 9, 20, 0.25);
+}
+
+.form-control::placeholder {
+    color: var(--text-muted);
+}
+
+.badge.bg-secondary {
+    background-color: var(--secondary-color) !important;
+}
+
+.badge.bg-warning {
+    background-color: var(--accent-color) !important;
+    color: var(--text-dark);
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/cinema-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 120px 0;
+    margin-bottom: 40px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+}
+
+.hero-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, var(--primary-color) 0%, transparent 70%);
+    opacity: 0.3;
+    z-index: 1;
+}
+
+.hero-section .container {
+    position: relative;
+    z-index: 2;
+}
+
+.hero-section h1 {
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+/* Movie Card Styles */
+.movie-card {
+    transition: all 0.3s ease;
+    overflow: hidden;
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--box-shadow);
+    height: 100%;
+    border-radius: 8px;
+}
+
+.movie-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--box-shadow-hover);
+    background-color: var(--bg-card-hover);
+}
+
+.movie-poster {
+    height: 300px;
+    object-fit: cover;
+    transition: all 0.5s ease;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.movie-card:hover .movie-poster {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+}
+
+.movie-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: var(--text-light);
+}
+
+.movie-genres {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie-genres .badge {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 0.7rem;
+    padding: 5px 8px;
+    border-radius: 4px;
+    background-color: var(--secondary-color);
+    transition: all 0.2s ease;
+}
+
+.movie-genres .badge:hover {
+    background-color: var(--primary-color) !important;
+    transform: scale(1.05);
+}
+
+/* Save button styles */
+.save-movie-btn {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    transition: all 0.3s ease;
+    padding: 5px;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.save-movie-btn:hover {
+    color: var(--accent-color);
+    background-color: rgba(230, 185, 30, 0.1);
+    transform: scale(1.1);
+}
+
+.save-movie-btn.saved {
+    color: var(--accent-color);
+}
+
+/* Rating stars */
+.rating {
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+}
+
+.rating i {
+    color: var(--accent-color);
+    margin-right: 5px;
+}
+
+.movie-rating {
+    font-weight: 600;
+}
+
+/* Movie details page */
+.movie-detail-poster {
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: var(--box-shadow);
+    transition: all 0.3s ease;
+}
+
+.movie-detail-poster:hover {
+    transform: scale(1.02);
+    box-shadow: var(--box-shadow-hover);
+}
+
+.trailer-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: var(--box-shadow);
+    margin-top: 15px;
+}
+
+.trailer-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+/* Rating buttons */
+.rating-stars .btn-group {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.rating-btn {
+    flex: 1;
+    min-width: 40px;
+    border-radius: 4px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.rating-btn:hover {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+    color: var(--text-dark);
+    transform: translateY(-2px);
+}
+
+.rating-btn.active {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+    color: var(--text-dark);
+}
+
+/* Auth forms */
+.auth-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card.shadow {
+    box-shadow: var(--box-shadow) !important;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+}
+
+.card.shadow .card-body {
+    padding: 30px;
+}
+
+.form-label {
+    color: var(--text-light);
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.form-text {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+}
+
+/* Loading spinner overlay */
+.loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    backdrop-filter: blur(5px);
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+    border-width: 0.25rem;
+    color: var(--primary-color) !important;
+}
+
+/* Toast notifications */
+.toast-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.toast {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--box-shadow);
+}
+
+.toast-header {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: var(--text-light);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.toast-body {
+    color: var(--text-light);
+}
+
+/* Genre cards */
+.genre-card {
+    transition: all 0.3s ease;
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--box-shadow);
+    text-align: center;
+    border-radius: 8px;
+}
+
+.genre-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--box-shadow-hover);
+    background-color: var(--bg-card-hover);
+}
+
+.genre-name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+/* Navbar customization */
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--primary-color) !important;
+}
+
+.navbar-brand i {
+    color: var(--primary-color);
+}
+
+.nav-link {
+    font-weight: 500;
+    transition: all 0.2s ease;
+    padding: 0.5rem 1rem;
+    margin: 0 0.2rem;
+    border-radius: 4px;
+}
+
+.nav-link:hover, .nav-link.active {
+    background-color: rgba(229, 9, 20, 0.1);
+    color: var(--primary-color) !important;
+}
+
+/* Footer customization */
+footer {
+    border-top: 1px solid var(--border-color);
+    margin-top: 50px;
+}
+
+footer h5 {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* Admin controls */
+.admin-controls .btn-group {
+    opacity: 0.7;
+    transition: all 0.3s ease;
+}
+
+.movie-card:hover .admin-controls .btn-group {
+    opacity: 1;
+}
+
+.edit-movie-btn {
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.edit-movie-btn:hover {
+    background-color: var(--accent-color);
+    color: var(--text-dark);
+}
+
+.delete-movie-btn {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.delete-movie-btn:hover {
+    background-color: var(--primary-color);
+    color: var(--text-light);
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+/* Debug panel customization */
+#debug-panel {
+    border: 1px solid var(--border-color);
+    background-color: rgba(0, 0, 0, 0.9) !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .movie-poster {
+        height: 250px;
+    }
+
+    .hero-section {
+        padding: 60px 0;
+    }
+
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+
+    .card.shadow .card-body {
+        padding: 20px;
+    }
+}
