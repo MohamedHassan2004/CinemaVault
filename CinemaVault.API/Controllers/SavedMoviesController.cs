@@ -8,11 +8,11 @@ namespace CinemaVault.API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Authorize(Roles = "User")]
-    public class SavedMovieController : ControllerBase
+    public class SavedMoviesController : ControllerBase
     {
         private readonly ISavedMovieService _savedMovieService;
 
-        public SavedMovieController(ISavedMovieService savedMovieService)
+        public SavedMoviesController(ISavedMovieService savedMovieService)
         {
             _savedMovieService = savedMovieService;
         }

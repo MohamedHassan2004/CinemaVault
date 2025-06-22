@@ -33,3 +33,4 @@ C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\Ci
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.pdb
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.genruntimeconfig.cache
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\ref\CinemaVault.BLL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.BLL\obj\Debug\net8.0\CinemaVault.BLL.sourcelink.json

@@ -1,0 +1,52 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CinemaVault
+/.vs/ProjectEvaluation
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.local.json
+secrets.json
+
+# Entity Framework Migrations (optional: keep if you want to ignore snapshots)
+**/Migrations/*Snapshot.cs
+
+# Logs
+*.log
+logs/
+
+# Publish results
+publish/
+*.publish.xml
+
+
+# Others
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db

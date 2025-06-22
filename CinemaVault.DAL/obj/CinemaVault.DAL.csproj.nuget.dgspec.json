@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj": {}
+    "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj": {
+    "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj",
         "projectName": "CinemaVault.DAL",
-        "projectPath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj",
+        "projectPath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\CinemaVault.DAL.csproj",
         "packagesPath": "C:\\Users\\wtwat2004\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.DAL\\obj\\",
+        "outputPath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

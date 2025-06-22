@@ -26,3 +26,4 @@ wwwroot\cinemavault front\register.html
 wwwroot\cinemavault front\saved-movies.html
 wwwroot\cinemavault front\search.html
 wwwroot\images\MoviePosters\44b34584-f6bf-4554-959a-8e6198666259.jpg
+wwwroot\uploads\images\UsersProfilePic\1a3dacfd-7cbf-41f8-bb2f-9efde143ad67.png

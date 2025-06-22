@@ -7,11 +7,11 @@ namespace CinemaVault.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserPermissionController : ControllerBase
+    public class UserPermissionsController : ControllerBase
     {
         private readonly IUserPermissionService _userPermissionService;
 
-        public UserPermissionController(IUserPermissionService userPermissionService)
+        public UserPermissionsController(IUserPermissionService userPermissionService)
         {
             _userPermissionService = userPermissionService;
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5fKxNZyEuwg=",
+  "dgSpecHash": "6n8ocY5H2pg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.BLL\\CinemaVault.BLL.csproj",
+  "projectFilePath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.BLL\\CinemaVault.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wtwat2004\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -72,6 +72,7 @@
     "C:\\Users\\wtwat2004\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\wtwat2004\\.nuget\\packages\\riok.mapperly\\4.2.1\\riok.mapperly.4.2.1.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",

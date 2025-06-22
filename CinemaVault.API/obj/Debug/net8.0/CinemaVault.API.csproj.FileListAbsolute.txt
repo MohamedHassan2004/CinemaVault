@@ -318,3 +318,4 @@ C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\Ci
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.API\obj\Debug\net8.0\CinemaVault.API.pdb
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.API\obj\Debug\net8.0\CinemaVault.API.genruntimeconfig.cache
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.API\obj\Debug\net8.0\ref\CinemaVault.API.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.API\obj\Debug\net8.0\CinemaVault.API.sourcelink.json

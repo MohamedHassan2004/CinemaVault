@@ -76,6 +76,8 @@ namespace CinemaVault
             builder.Services.AddScoped<ISavedMovieRepository, SavedMovieRepository>();
             builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
             builder.Services.AddScoped<IUserPermissionRepository, UserPermissionRepository>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+
 
 
             builder.Services.AddScoped<IMovieService, MovieService>();
@@ -85,6 +87,8 @@ namespace CinemaVault
             builder.Services.AddScoped<IReviewService, ReviewService>();
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddScoped<IUserPermissionService, UserPermissionService>();
+            builder.Services.AddScoped<IUserService, UserService>();
+
 
             builder.Services.AddScoped<IImageStorageService, LocalFileSystemImageStorageService>();
             builder.Services.AddHttpContextAccessor();
@@ -132,7 +136,7 @@ namespace CinemaVault
             app.UseStaticFiles();
             app.UseCors("AllowAll");
 
-            app.UseMiddleware<ExceptionHandlingMiddleware>();
+            //app.UseMiddleware<ExceptionHandlingMiddleware>();
 
             app.UseAuthentication();
             app.UseAuthorization();

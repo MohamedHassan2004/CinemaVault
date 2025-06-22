@@ -6,11 +6,11 @@ namespace CinemaVault.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class GenreController : ControllerBase
+    public class GenresController : ControllerBase
     {
         private readonly IGenreService _genreService;
 
-        public GenreController(IGenreService genreService)
+        public GenresController(IGenreService genreService)
         {
             _genreService = genreService;
         }

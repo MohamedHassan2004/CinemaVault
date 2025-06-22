@@ -32,64 +32,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.GenreController",
-    "Method": "GetAllGenres",
-    "RelativePath": "api/Genre",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CinemaVault.API.Controllers.GenreController",
-    "Method": "CreateGenre",
-    "RelativePath": "api/Genre",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "createGenreDto",
-        "Type": "CinemaVault.BLL.DTOs.Genre.CreateGenreDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CinemaVault.API.Controllers.GenreController",
-    "Method": "UpdateGenre",
-    "RelativePath": "api/Genre",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "genreDto",
-        "Type": "CinemaVault.BLL.DTOs.Genre.GenreDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CinemaVault.API.Controllers.GenreController",
-    "Method": "DeleteGenre",
-    "RelativePath": "api/Genre/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "CinemaVault.API.Controllers.GenreMovieController",
     "Method": "AddGenreMovie",
     "RelativePath": "api/GenreMovie",
@@ -122,9 +64,67 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.GenresController",
+    "Method": "GetAllGenres",
+    "RelativePath": "api/Genres",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.GenresController",
+    "Method": "CreateGenre",
+    "RelativePath": "api/Genres",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createGenreDto",
+        "Type": "CinemaVault.BLL.DTOs.Genre.CreateGenreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.GenresController",
+    "Method": "UpdateGenre",
+    "RelativePath": "api/Genres",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genreDto",
+        "Type": "CinemaVault.BLL.DTOs.Genre.GenreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.GenresController",
+    "Method": "DeleteGenre",
+    "RelativePath": "api/Genres/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "AddMovie",
-    "RelativePath": "api/Movie",
+    "RelativePath": "api/Movies",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -158,9 +158,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "UpdateMovie",
-    "RelativePath": "api/Movie",
+    "RelativePath": "api/Movies",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -199,9 +199,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "DeleteMovie",
-    "RelativePath": "api/Movie/{id}",
+    "RelativePath": "api/Movies/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -215,9 +215,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "GetMovieDetails",
-    "RelativePath": "api/Movie/{id}",
+    "RelativePath": "api/Movies/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -231,9 +231,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "GetAllMovies",
-    "RelativePath": "api/Movie/all",
+    "RelativePath": "api/Movies/all",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -241,9 +241,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "GetByGenreId",
-    "RelativePath": "api/Movie/genre/{genreId}",
+    "RelativePath": "api/Movies/genre/{genreId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -257,9 +257,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "GetLatestMovies",
-    "RelativePath": "api/Movie/latest/{count}",
+    "RelativePath": "api/Movies/latest/{count}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -273,9 +273,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "SearchMovies",
-    "RelativePath": "api/Movie/search",
+    "RelativePath": "api/Movies/search",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -289,9 +289,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.MovieController",
+    "ContainingType": "CinemaVault.API.Controllers.MoviesController",
     "Method": "GetTopRatedMovies",
-    "RelativePath": "api/Movie/top-rated/{count}",
+    "RelativePath": "api/Movies/top-rated/{count}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -353,9 +353,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.SavedMovieController",
+    "ContainingType": "CinemaVault.API.Controllers.SavedMoviesController",
     "Method": "GetMySavedMovies",
-    "RelativePath": "api/SavedMovie/my-saved",
+    "RelativePath": "api/SavedMovies/my-saved",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -363,9 +363,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.SavedMovieController",
+    "ContainingType": "CinemaVault.API.Controllers.SavedMoviesController",
     "Method": "SaveMovie",
-    "RelativePath": "api/SavedMovie/save/{movieId}",
+    "RelativePath": "api/SavedMovies/save/{movieId}",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -379,9 +379,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.SavedMovieController",
+    "ContainingType": "CinemaVault.API.Controllers.SavedMoviesController",
     "Method": "UnsaveMovie",
-    "RelativePath": "api/SavedMovie/unsave/{savedMovieId}",
+    "RelativePath": "api/SavedMovies/unsave/{savedMovieId}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -395,9 +395,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.UserPermissionController",
+    "ContainingType": "CinemaVault.API.Controllers.UserPermissionsController",
     "Method": "AddPermissionToUser",
-    "RelativePath": "api/UserPermission",
+    "RelativePath": "api/UserPermissions",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -411,9 +411,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.UserPermissionController",
+    "ContainingType": "CinemaVault.API.Controllers.UserPermissionsController",
     "Method": "RemovePermissionFromUser",
-    "RelativePath": "api/UserPermission",
+    "RelativePath": "api/UserPermissions",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -427,9 +427,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CinemaVault.API.Controllers.UserPermissionController",
+    "ContainingType": "CinemaVault.API.Controllers.UserPermissionsController",
     "Method": "GetUserPermissionByUserId",
-    "RelativePath": "api/UserPermission/{userId}",
+    "RelativePath": "api/UserPermissions/{userId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -442,6 +442,58 @@
       {
         "Name": "userId",
         "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Users/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.UsersController",
+    "Method": "GetUserProfile",
+    "RelativePath": "api/Users/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.UsersController",
+    "Method": "UpdateProfilePicture",
+    "RelativePath": "api/Users/profile-picture",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProfilePicture",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaVault.API.Controllers.UsersController",
+    "Method": "UpdateUserProfile",
+    "RelativePath": "api/Users/update-profile",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CinemaVault.BLL.DTOs.User.PatchUserInfoDto",
         "IsRequired": true
       }
     ],

@@ -67,99 +67,6 @@
         }
       }
     },
-    "/api/Genre": {
-      "get": {
-        "tags": [
-          "Genre"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "post": {
-        "tags": [
-          "Genre"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateGenreDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateGenreDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateGenreDto"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "put": {
-        "tags": [
-          "Genre"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/GenreDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/GenreDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/GenreDto"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Genre/{id}": {
-      "delete": {
-        "tags": [
-          "Genre"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/GenreMovie": {
       "post": {
         "tags": [
@@ -214,10 +121,103 @@
         }
       }
     },
-    "/api/Movie": {
+    "/api/Genres": {
+      "get": {
+        "tags": [
+          "Genres"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
       "post": {
         "tags": [
-          "Movie"
+          "Genres"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateGenreDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateGenreDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateGenreDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Genres"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenreDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Genres/{id}": {
+      "delete": {
+        "tags": [
+          "Genres"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movies": {
+      "post": {
+        "tags": [
+          "Movies"
         ],
         "requestBody": {
           "content": {
@@ -284,7 +284,7 @@
       },
       "put": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "requestBody": {
           "content": {
@@ -357,10 +357,10 @@
         }
       }
     },
-    "/api/Movie/{id}": {
+    "/api/Movies/{id}": {
       "delete": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "parameters": [
           {
@@ -381,7 +381,7 @@
       },
       "get": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "parameters": [
           {
@@ -401,10 +401,10 @@
         }
       }
     },
-    "/api/Movie/all": {
+    "/api/Movies/all": {
       "get": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "responses": {
           "200": {
@@ -413,10 +413,10 @@
         }
       }
     },
-    "/api/Movie/latest/{count}": {
+    "/api/Movies/latest/{count}": {
       "get": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "parameters": [
           {
@@ -436,10 +436,10 @@
         }
       }
     },
-    "/api/Movie/top-rated/{count}": {
+    "/api/Movies/top-rated/{count}": {
       "get": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "parameters": [
           {
@@ -459,10 +459,10 @@
         }
       }
     },
-    "/api/Movie/search": {
+    "/api/Movies/search": {
       "get": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "parameters": [
           {
@@ -480,10 +480,10 @@
         }
       }
     },
-    "/api/Movie/genre/{genreId}": {
+    "/api/Movies/genre/{genreId}": {
       "get": {
         "tags": [
-          "Movie"
+          "Movies"
         ],
         "parameters": [
           {
@@ -580,10 +580,10 @@
         }
       }
     },
-    "/api/SavedMovie/save/{movieId}": {
+    "/api/SavedMovies/save/{movieId}": {
       "post": {
         "tags": [
-          "SavedMovie"
+          "SavedMovies"
         ],
         "parameters": [
           {
@@ -603,10 +603,10 @@
         }
       }
     },
-    "/api/SavedMovie/unsave/{savedMovieId}": {
+    "/api/SavedMovies/unsave/{savedMovieId}": {
       "delete": {
         "tags": [
-          "SavedMovie"
+          "SavedMovies"
         ],
         "parameters": [
           {
@@ -626,10 +626,10 @@
         }
       }
     },
-    "/api/SavedMovie/my-saved": {
+    "/api/SavedMovies/my-saved": {
       "get": {
         "tags": [
-          "SavedMovie"
+          "SavedMovies"
         ],
         "responses": {
           "200": {
@@ -638,10 +638,10 @@
         }
       }
     },
-    "/api/UserPermission": {
+    "/api/UserPermissions": {
       "post": {
         "tags": [
-          "UserPermission"
+          "UserPermissions"
         ],
         "requestBody": {
           "content": {
@@ -670,7 +670,7 @@
       },
       "delete": {
         "tags": [
-          "UserPermission"
+          "UserPermissions"
         ],
         "requestBody": {
           "content": {
@@ -698,10 +698,10 @@
         }
       }
     },
-    "/api/UserPermission/{userId}": {
+    "/api/UserPermissions/{userId}": {
       "get": {
         "tags": [
-          "UserPermission"
+          "UserPermissions"
         ],
         "parameters": [
           {
@@ -719,6 +719,96 @@
               "type": "string"
             }
           }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users/profile": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users/profile-picture": {
+      "patch": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "ProfilePicture"
+                ],
+                "type": "object",
+                "properties": {
+                  "ProfilePicture": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "ProfilePicture": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users/update-profile": {
+      "patch": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PatchUserInfoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PatchUserInfoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PatchUserInfoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users/delete": {
+      "delete": {
+        "tags": [
+          "Users"
         ],
         "responses": {
           "200": {
@@ -803,6 +893,20 @@
           },
           "password": {
             "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PatchUserInfoDto": {
+        "required": [
+          "userName"
+        ],
+        "type": "object",
+        "properties": {
+          "userName": {
+            "maxLength": 50,
+            "minLength": 3,
             "type": "string"
           }
         },

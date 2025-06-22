@@ -27,3 +27,4 @@ C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\Ci
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.pdb
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.genruntimeconfig.cache
 C:\Users\wtwat2004\OneDrive\Desktop\Projects\DEPI-ASP.NET-project\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\ref\CinemaVault.DAL.dll
+C:\Users\wtwat2004\OneDrive\Desktop\Projects\CinemaVault\CinemaVault.DAL\obj\Debug\net8.0\CinemaVault.DAL.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinemaVault.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+519b9faac2b60f0aa7961f229e1ccb5adf3a0dac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7628a3d27edb48749afba782098699cec1b6a2e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinemaVault.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinemaVault.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

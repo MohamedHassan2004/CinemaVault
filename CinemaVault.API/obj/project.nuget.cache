@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5wnsek32gc8=",
+  "dgSpecHash": "8jbvGIZZZTQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\DEPI-ASP.NET-project\\CinemaVault\\CinemaVault.API\\CinemaVault.API.csproj",
+  "projectFilePath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\CinemaVault.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wtwat2004\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
@@ -75,6 +75,7 @@
     "C:\\Users\\wtwat2004\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\wtwat2004\\.nuget\\packages\\riok.mapperly\\4.2.1\\riok.mapperly.4.2.1.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\wtwat2004\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
